@@ -1,0 +1,33 @@
+# Java/Gradle
+.gradle/
+/backend/.gradle/
+/backend/build/
+/build/
+*.class
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+/.vscode/
+
+# Node
+/frontend/node_modules/
+/frontend/dist/
+
+# Environment
+.env
+env/
+
+# OS
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+*.lognode_modules/
+dist/
+build/
+.gradle/
+*.log
+.idea/
+.vscode/
